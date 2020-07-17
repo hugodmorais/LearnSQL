@@ -1,0 +1,6 @@
+// JOINS
+https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
+
+http://www.sql-join.com/
+
+https://en.wikipedia.org/wiki/Join_(SQL)
