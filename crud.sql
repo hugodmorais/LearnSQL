@@ -28,5 +28,16 @@ WHERE
 DELETE FROM table
 WHERE row_id = 1
 
+ALTER TABLE table_name action
+
+CASE expression
+  WHEN condition1 THEN result1
+  WHEN condition2 THEN result2
+  ELSE some_other_result
+END
+
+
+
+
 
 
